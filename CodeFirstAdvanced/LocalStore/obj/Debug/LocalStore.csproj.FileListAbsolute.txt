@@ -1,0 +1,13 @@
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\LocalStore.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\LocalStore.exe
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\LocalStore.pdb
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\obj\Debug\LocalStore.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\obj\Debug\LocalStore.exe
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\LocalStore\obj\Debug\LocalStore.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\LocalStore\bin\Debug\LocalStore.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\LocalStore\obj\Debug\LocalStore.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\LocalStore\obj\Debug\LocalStore.pdb

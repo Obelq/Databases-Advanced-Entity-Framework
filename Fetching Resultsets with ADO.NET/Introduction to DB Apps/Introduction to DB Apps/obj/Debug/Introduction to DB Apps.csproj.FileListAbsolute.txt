@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\bin\Debug\Introduction to DB Apps.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\bin\Debug\Introduction to DB Apps.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\bin\Debug\Introduction to DB Apps.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\obj\Debug\Introduction to DB Apps.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\obj\Debug\Introduction to DB Apps.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\Introduction to DB Apps\Introduction to DB Apps\obj\Debug\Introduction to DB Apps.pdb

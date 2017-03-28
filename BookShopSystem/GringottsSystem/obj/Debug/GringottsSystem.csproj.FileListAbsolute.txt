@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\GringottsSystem.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\GringottsSystem.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\GringottsSystem.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\obj\Debug\GringottsSystem.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\obj\Debug\GringottsSystem.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\BookShopSystem\GringottsSystem\obj\Debug\GringottsSystem.pdb

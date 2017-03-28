@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\bin\Debug\ClassPerson.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\bin\Debug\ClassPerson.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\bin\Debug\ClassPerson.pdb
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\obj\Debug\ClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\obj\Debug\ClassPerson.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\ClassPerson\obj\Debug\ClassPerson.pdb

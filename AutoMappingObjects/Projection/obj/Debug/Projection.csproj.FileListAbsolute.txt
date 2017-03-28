@@ -1,0 +1,12 @@
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\Projection.exe.config
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\Projection.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\Projection.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\AutoMapper.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\AutoMapper.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\obj\Debug\Projection.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\obj\Debug\Projection.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\Projection\obj\Debug\Projection.pdb

@@ -1,0 +1,14 @@
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Services.dll.config
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Services.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Services.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Data.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Models.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Data.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\obj\Debug\PhotoShare.Services.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\obj\Debug\PhotoShare.Services.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Services\obj\Debug\PhotoShare.Services.pdb

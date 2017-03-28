@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\bin\Debug\SimpleAndAdvancedMapping.exe.config
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\bin\Debug\SimpleAndAdvancedMapping.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\bin\Debug\SimpleAndAdvancedMapping.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\bin\Debug\AutoMapper.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\bin\Debug\AutoMapper.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\obj\Debug\SimpleAndAdvancedMapping.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\obj\Debug\SimpleAndAdvancedMapping.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\AutoMappingObjects\SimpleAndAdvancedMapping\obj\Debug\SimpleAndAdvancedMapping.pdb

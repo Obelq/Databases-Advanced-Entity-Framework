@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\ADOGringotsExercises.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\ADOGringotsExercises.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\ADOGringotsExercises.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\obj\Debug\ADOGringotsExercises.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\obj\Debug\ADOGringotsExercises.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\ADOGringotsExercises\ADOGringotsExercises\obj\Debug\ADOGringotsExercises.pdb

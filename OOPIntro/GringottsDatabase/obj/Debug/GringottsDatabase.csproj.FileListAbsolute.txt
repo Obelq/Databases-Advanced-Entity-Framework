@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\GringottsDatabase.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\GringottsDatabase.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\GringottsDatabase.pdb
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\obj\Debug\GringottsDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\obj\Debug\GringottsDatabase.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\GringottsDatabase\obj\Debug\GringottsDatabase.pdb

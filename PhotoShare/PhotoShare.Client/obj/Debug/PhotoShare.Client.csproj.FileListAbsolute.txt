@@ -1,0 +1,25 @@
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Models.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Client.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Data.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Models.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Services.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Data.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\PhotoShare.Services.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\PhotoShare.Client\bin\Debug\EntityFramework.xml

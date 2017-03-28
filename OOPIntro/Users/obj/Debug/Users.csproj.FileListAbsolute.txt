@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\Users.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\Users.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\Users.pdb
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\obj\Debug\Users.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\obj\Debug\Users.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\Users\obj\Debug\Users.pdb

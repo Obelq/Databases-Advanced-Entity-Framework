@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EmployeeSystem.exe.config
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EmployeeSystem.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EmployeeSystem.pdb
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\obj\Debug\EmployeeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\obj\Debug\EmployeeSystem.exe
+C:\Users\Georgi\Desktop\DatabasesAdvancedEntityFramework\PhotoShare\EmployeeSystem\obj\Debug\EmployeeSystem.pdb

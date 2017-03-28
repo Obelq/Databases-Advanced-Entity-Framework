@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\SoftUniADO.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\SoftUniADO.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\SoftUniADO.pdb
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\obj\Debug\SoftUniADO.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\obj\Debug\SoftUniADO.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\Fetching Resultsets with ADO.NET\EntityFrameworkExercise\SoftUniADO\obj\Debug\SoftUniADO.pdb

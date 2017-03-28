@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\HospitalDB.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\obj\Debug\HospitalDB.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\HospitalDB.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\HospitalDB.pdb
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\obj\Debug\HospitalDB.exe
+C:\Users\Georgi\Desktop\C# Advanced\OOPIntro\HospitalDB\obj\Debug\HospitalDB.pdb

@@ -1,0 +1,19 @@
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\SalesDatabase.exe.config
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\SalesDatabase.exe
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\SalesDatabase.pdb
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.exe
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.pdb
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.Migrations.InitialCreate.resources
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.csproj.GenerateResource.Cache
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.Migrations.AddColumnDescriptionToProducts.resources
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.Migrations.AddDefaultValueSales.resources
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.Migrations.AddFirstNameAndLastName.resources
+C:\Users\Georgi\Desktop\C# Advanced\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.Migrations.AddDefaultValueOnAgeInCustomers.resources
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\SalesDatabase\bin\Debug\SalesDatabase.exe.config
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.exe
+C:\Users\Georgi\Desktop\Databases Advanced - Entity Framework\CodeFirstAdvanced\SalesDatabase\obj\Debug\SalesDatabase.pdb
